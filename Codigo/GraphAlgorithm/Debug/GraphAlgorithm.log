@@ -1,0 +1,6 @@
+﻿  Graph.cpp
+D:\User\UNIVERSIDAD\Estructuras_de_datos\Grafos\GraphTopologicalSort-master\GraphAlgorithm\Graph.cpp(90,20): warning C4018: '<': no coinciden signed/unsigned
+  GraphNode.cpp
+  Generando código...
+D:\User\UNIVERSIDAD\Estructuras_de_datos\Grafos\GraphTopologicalSort-master\GraphAlgorithm\Graph.cpp(86): warning C4715: 'Graph::GetID': no todas las rutas de acceso de control devuelven un valor
+  GraphAlgorithm.vcxproj -> D:\User\UNIVERSIDAD\Estructuras_de_datos\Grafos\GraphTopologicalSort-master\Debug\GraphAlgorithm.exe
